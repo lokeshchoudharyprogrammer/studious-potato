@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Counter App
+          Counter App by haris
         </p>
         <p>Count: {count}</p>
         <button onClick={() => setCount(count + 1)}>Increment</button>
