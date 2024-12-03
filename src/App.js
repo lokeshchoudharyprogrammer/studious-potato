@@ -13,6 +13,7 @@ function App() {
       <header className="App-header">
       <p>hello</p>
       <img src={logo} className="App-logo" alt="logo" />
+      <p>this is a app.jsx page</p>
         
         <p>
           Counter App
