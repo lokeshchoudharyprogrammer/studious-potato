@@ -7,7 +7,11 @@ function App() {
 
   return (
     <div className="App">
+
+
+
       <header className="App-header">
+      <p>hello</p>
         
         <p>
           Counter App
@@ -16,6 +20,7 @@ function App() {
         <button onClick={() => setCount(count + 1)}>Increment</button>
         <button onClick={() => setCount(count - 1)}>Decrement</button>
         <button onClick={() => setCount(0)}>Reset</button>
+
       </header>
     </div>
   );
