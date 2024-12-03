@@ -16,7 +16,7 @@ function App() {
       <p>this is a app.jsx page</p>
         
         <p>
-          Counter App
+          Counter App by haris
         </p>
         <p>Count: {count}</p>
         <button onClick={() => setCount(count + 1)}>Increment</button>
